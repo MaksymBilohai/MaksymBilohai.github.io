@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.epam.yplugin.feature_2.0.4.jar" id="com.epam.yplugin.feature" version="2.0.4">
+      <category name="com.epam.eclipse.category.id"/>
+   </feature>
+   <category-def name="com.epam.eclipse.category.id" label="EPAM Eclipse Tools"/>
+   <repository-reference location="http://www.epam.com/content/dam/epam/eclipse" enabled="true" />
+</site>
